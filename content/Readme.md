@@ -1,1 +1,0 @@
-and [[content/index|index]]
