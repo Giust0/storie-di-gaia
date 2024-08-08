@@ -447,7 +447,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                   class="callout-title"
                 >
                   <div class="callout-icon"></div>
-                  <div class="callout-title-inner">${title}</div>
                   ${collapse ? toggleIcon : ""}
                 </div>`,
                 }

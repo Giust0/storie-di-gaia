@@ -28,4 +28,4 @@
 ## Backstory
 ## Legami e Relazioni
 ## Curiosità
-## apparizioni
+## Apparizioni

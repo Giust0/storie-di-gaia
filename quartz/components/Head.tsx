@@ -20,7 +20,7 @@ export default (() => {
 
     return (
       <head>
-        <title>{title}</title>
+        <title>Storie di Gaia - Wiki</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
