@@ -12,7 +12,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`} style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
-        <img src={"/static/Logo Storie di Gaia.png"} style={{maxWidth:"25%"}}/>
+        {/* <img src={"/static/Logo Storie di Gaia.png"} style={{maxWidth:"25%"}}/> */}
       </footer>
     )
   }

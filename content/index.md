@@ -31,3 +31,6 @@ L'ambientazione di questa wiki è in **continua evoluzione**, plasmata dalle sce
 
 > [!quote|mark]
 > ***Our land, our story.***
+<p style="text-align: center">
+<img src="./Assets/Logo Storie di Gaia.png" style="max-width: 25%" />
+</p>

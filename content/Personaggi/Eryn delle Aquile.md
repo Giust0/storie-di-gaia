@@ -29,3 +29,7 @@
 ## Legami e Relazioni
 ## Curiosità
 ## Apparizioni
+
+<p style="text-align: center">
+<img src="./Assets/Logo Storie di Gaia.png" style="max-width: 25%" />
+</p>
