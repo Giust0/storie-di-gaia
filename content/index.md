@@ -1,7 +1,10 @@
 ---
 title: Benvenuti su Gaia
 ---
-![[Banner home.png]]
+
+<p style="text-align: center">
+<img src="./Assets/Banner Home.png" />
+</p>
 
 Benvenuti nella **Wiki di Gaia**! 
 Qui troverete tutto ciò che serve per esplorare il nostro mondo unico: dalle terre ai personaggi leggendari, dalle regole personalizzate alle campagne in corso. Questo sito può essere la vostra guida per immergervi completamente nell'universo che abbiamo creato insieme oppure uno strumento indispensabile per chi è giocatore e per chi è narratore per non perdere l'orientamento tra le varie storie. 
