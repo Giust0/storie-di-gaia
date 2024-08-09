@@ -3,7 +3,7 @@ title: Benvenuti su Gaia
 ---
 
 <p style="text-align: center">
-<img src="./Assets/Banner Home.png" />
+<img src="./Assets/Banner Home Light.jpg" />
 </p>
 
 Benvenuti nella **Wiki di Gaia**! 

@@ -22,8 +22,8 @@ export default {
       quote: "Citazione",
     },
     backlinks: {
-      title: "Link entranti",
-      noBacklinksFound: "Nessun link entrante",
+      title: "Riferimenti",
+      noBacklinksFound: "Nessun riferimento",
     },
     themeToggle: {
       lightMode: "Tema chiaro",
@@ -36,7 +36,7 @@ export default {
       createdWith: "Creato con",
     },
     graph: {
-      title: "Vista grafico",
+      title: "Grafico Collegamenti",
     },
     recentNotes: {
       title: "Note recenti",
