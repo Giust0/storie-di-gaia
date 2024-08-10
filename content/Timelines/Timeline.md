@@ -75,7 +75,7 @@
 </head>
 <body style="margin: 0; padding: 0; box-sizing: border-box; font-family: 'Montserrat', sans-serif; background-color: #111;">
   <p style="text-align: center">
-  <img src="./Assets/Banner Home Light.jpg" />
+  <img src="./Assets/T-Era-Guerre.jpeg" />
   </p>
   <div style="min-height: 100vh; width: 100%; display: flex; align-items: center; justify-content: center; padding: 100px 0;">
     <div style="width: 80%; height: auto; max-width: 800px; margin: 0 auto;" class="timeline">
