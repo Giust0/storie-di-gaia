@@ -46,8 +46,8 @@
     text-align: center;
   }
   .event-group .image-container {
-    width: 100px;
-    height: 60px;
+    width: 175px;
+    height: 105px;
     border-radius: 5px;
     overflow: hidden;
     margin-bottom: 10px;
