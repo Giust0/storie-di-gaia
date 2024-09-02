@@ -8,27 +8,13 @@ _“<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relat
 
 Da quando aveva 8 anni <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> non aveva mai più dormito per più di cinque ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di quattro ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
 
-Keloth aveva deciso di occuparsi personalmente dell'istruzione di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" />, invece di mandarlo in Accademia con gli altri giovani Drow. Questo perché sapeva bene che un mezzo Drow come <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> sarebbe stato preso di mira e probabilmente oppresso dai suoi compagni.
+Keloth aveva deciso di occuparsi personalmente dell'istruzione di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" />, invece di mandarlo in Accademia con gli altri giovani Drow. Questo perché sapeva bene che un mezzo Drow come <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> sarebbe stato preso di mira e probabilmente oppresso dai suoi compagni. Queste piccole cure non erano però dovute ad un affetto paterno, quanto piuttosto da un desiderio di grandezza che Keloth intendeva soddisfare tramite suo figlio. Ormai 13enne, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> si era abituato a tale routine, anche se ultimamente l’allenamento era più arduo del solito. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> sapeva bene perché. Si avvicinava il momento del **Trapasso**. Dopo una veloce colazione, prese le sue armi e raggiunse suo padre nella sala allenamento.
 
-Queste piccole cure non erano però dovute ad un affetto paterno, quanto piuttosto da un desiderio di grandezza che Keloth intendeva soddisfare tramite suo figlio.
-
-Ormai 13enne, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> si era abituato a tale routine, anche se ultimamente l’allenamento era più arduo del solito.
-
-<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> sapeva bene perché. Si avvicinava il momento del **Trapasso**. Dopo una veloce colazione, prese le sue armi e raggiunse suo padre nella sala allenamento.
-
-Keloth era un Drow dai lunghi capelli bianchi decorati da alcune treccine; in passato era stato un potente guerriero, noto come il Primogenito della **casata Nyrr**, sotto il diretto servizio della Matrona Nyrr. Dopo un tragico evento però la parte sinistra del suo corpo aveva subito gravi danni; la gamba non lo sosteneva più e l’occhio non poteva più guidarlo, mentre il braccio ormai inutile veniva celato all’interno dei suoi vestiti.
-
-Caduto in disgrazia per la perdita della sua forza, Keloth vedeva ora in <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> la sua opportunità di rivalsa; crescere un guerriero in grado di diventare il nuovo Primogenito dei Nyrr.
-
-Per farlo il primo passo importante era superare il Trapasso, il rito proposto ai giovani Drow per poter entrare a far parte del gruppo di guerrieri al servizio della propria casata.
+Keloth era un Drow dai lunghi capelli bianchi decorati da alcune treccine; in passato era stato un potente guerriero, noto come il Primogenito della **casata Nyrr**, sotto il diretto servizio della Matrona Nyrr. Dopo un tragico evento però la parte sinistra del suo corpo aveva subito gravi danni; la gamba non lo sosteneva più e l’occhio non poteva più guidarlo, mentre il braccio ormai inutile veniva celato all’interno dei suoi vestiti. Caduto in disgrazia per la perdita della sua forza, Keloth vedeva ora in <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> la sua opportunità di rivalsa; crescere un guerriero in grado di diventare il nuovo Primogenito dei Nyrr. Per farlo il primo passo importante era superare il Trapasso, il rito proposto ai giovani Drow per poter entrare a far parte del gruppo di guerrieri al servizio della propria casata.
 
 _"Evita di fare movimenti inutili"_ lo redarguì Keloth durante il loro solito scontro di allenamento. _"Per questo stile di combattimento devi usare la precisione, non la forza."_
 
-<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> prestò maggior attenzione ai movimenti del suo stocco, e sferrò i suoi colpi secondo le istruzioni del padre. Ogni suo attacco venne evitato; nonostante gli impedimenti fisici, suo padre rimaneva un abile combattente.
-
-L’allenamento era iniziato nel primo pomeriggio, l’ora in cui i Drow erano soliti destarsi, e terminò quando il sole era ormai calato da tempo.
-
-<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> era pieno di tagli e lividi su tutto il corpo; anche se solo un addestramento, le armi che utilizzavano erano vere, e ogni errore commesso restava impresso sulla sua pelle.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> prestò maggior attenzione ai movimenti del suo stocco, e sferrò i suoi colpi secondo le istruzioni del padre. Ogni suo attacco venne evitato; nonostante gli impedimenti fisici, suo padre rimaneva un abile combattente. L’allenamento era iniziato nel primo pomeriggio, l’ora in cui i Drow erano soliti destarsi, e terminò quando il sole era ormai calato da tempo. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> era pieno di tagli e lividi su tutto il corpo; anche se solo un addestramento, le armi che utilizzavano erano vere, e ogni errore commesso restava impresso sulla sua pelle.
 
 _"Per ora può bastare"_ disse Keloth. _"Vai a mangiare, continueremo più tardi."_
 
@@ -36,21 +22,10 @@ _"Sì, padre."_
 
 Riposte le armi, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> preparò la propria borsa e lasciò la casa.
 
-A causa delle montagne e delle fitte nuvole, su **Grà-Lin** vigeva quasi perennemente l’ombra. Per i Drow tale oscurità non rappresentava un problema, anzi lo sentivano come il proprio habitat naturale.
-
-Il giovane attraversò velocemente la città, cercando di evitare gli sguardi discriminatori dei Drow di passaggio.
-
-Raggiunse in fretta la periferia, la zona più povera della cittadella. Lì tra i vari capanni, ve n’era uno più isolato degli altri.
-
-<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> entrò, e trovò sua madre Mira intenta a tagliare le foglie di una delle piantine di cui si prendeva cura.
-
-Appena lo vide, Mira si precipitò ad abbracciarlo. _"Reon! Stai bene?"_
-
-**Reòn** era il nome col quale Mira era solito chiamare suo figlio, rifiutandosi di usare il nome da Drow che gli era stato dato da suo padre. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> ricambiò l’abbraccio senza dire una parola.
-
+A causa delle montagne e delle fitte nuvole, su **Grà-Lin** vigeva quasi perennemente l’ombra. Per i Drow tale oscurità non rappresentava un problema, anzi lo sentivano come il proprio habitat naturale. Il giovane attraversò velocemente la città, cercando di evitare gli sguardi discriminatori dei Drow di passaggio. Raggiunse in fretta la periferia, la zona più povera della cittadella. Lì tra i vari capanni, ve n’era uno più isolato degli altri. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> entrò, e trovò sua madre Mira intenta a tagliare le foglie di una delle piantine di cui si prendeva cura. Appena lo vide, Mira si precipitò ad abbracciarlo. _"Reon! Stai bene?"_ **Reòn** era il nome col quale Mira era solito chiamare suo figlio, rifiutandosi di usare il nome da Drow che gli era stato dato da suo padre. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> ricambiò l’abbraccio senza dire una parola. 
 _"Questa volta Keloth ha esagerato."_ disse lei osservando le ferite del ragazzo. La donna raccolse alcune erbe medicinali da una credenza e iniziò ad applicare degli impacchi sulle ferite più gravi.
 
-_"Madre, ti ho portato da mangiare"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> mentre si lasciava accudire. "_E anche della legna, per scaldare il capanno."_
+_"Madre, ti ho portato da mangiare e anche della legna, per scaldare il capanno."_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> mentre si lasciava accudire.
 
 In quanto schiava, Mira era costretta a rimanere costantemente all’interno del capanno. Tuttavia Keloth aveva acconsentito a fornirle cibo e altre piccole comodità, a patto che <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> si impegnasse a fondo nel suo addestramento. Per questo <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> faceva il possibile per consentirle di vivere al meglio; finché riusciva ad incontrare le aspettative del padre, poteva evitare che sua madre vivesse come gli altri schiavi, costretti ai lavori forzati e alle torture dei loro padroni.
 
