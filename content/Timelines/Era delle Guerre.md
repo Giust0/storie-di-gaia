@@ -84,7 +84,7 @@
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
           <div class="image-container">
-            <img src="https://via.placeholder.com/60" alt="Event 2 Image">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 2 Image">
           </div>
           <h1>Guerra delle Due Querce</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -92,7 +92,7 @@
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
           <div class="image-container">
-            <img src="https://via.placeholder.com/60" alt="Event 2 Image">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 2 Image">
           </div>
           <h1>Secondo Evento 565 p.A.</h1>
           <p>Descrizione breve del secondo evento.</p>
@@ -100,7 +100,7 @@
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
           <div class="image-container">
-            <img src="https://via.placeholder.com/60" alt="Event 2 Image">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 2 Image">
           </div>
           <h1>Terzo Evento 565 p.A.</h1>
           <p>Descrizione breve del terzo evento.</p>
@@ -108,7 +108,7 @@
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
           <div class="image-container">
-            <img src="https://via.placeholder.com/60" alt="Event 4 Image">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
           </div>
           <h1>Le Due Querce</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -116,7 +116,7 @@
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
           <div class="image-container">
-            <img src="https://via.placeholder.com/60" alt="Event 4 Image">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
           </div>
           <h1>Soli in Terra</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -124,7 +124,7 @@
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
           <div class="image-container">
-            <img src="https://via.placeholder.com/60" alt="Event 4 Image">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
           </div>
           <h1>Behind the Lion's Claw</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
