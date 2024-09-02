@@ -4,7 +4,7 @@ _di Alessio
 
 ## Parte 1: Alba
 
-“<img src="./Assets/clip image001.png" style="max-width: 5%" />, svegliati. E’ ora dell’allenamento. <img src="./Assets/clip image001.png" style="max-width: 5%" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così.
+“<img src="./Assets/clip_image001.png" style="max-width: 5%" />, svegliati. E’ ora dell’allenamento. <img src="./Assets/clip_image001.png" style="max-width: 5%" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così.
 
 Da quando aveva 8 anni ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image003.gif) non aveva mai più dormito per più di 5 ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di 4 ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
 
