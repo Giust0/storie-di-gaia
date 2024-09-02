@@ -37,7 +37,7 @@ _“Non ho paura, combatterai tu! Sei il migliore che conosco nel duello sono si
 _“Promesso, come sempre”_ rispose Donrand _“Tu prenditi cura della zia e delle altre, contano su di te.”_
 
 <p style="text-align: center">
-<img src="./Assets/d20Logo.png" style="max-width: 15%" />
+<img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
 
 Nel cielo terso e puntinato di piccole nuvole serene sopra Adria scoppiò l’urlo stridulo dell’enorme drago bianco. Un essere antico quanto la magia che lo pervadeva reso schiavo da un potere più forte del suo. Volò sopra le sacre guglie dalla forma di ascia che delimitavano la rocca principale della città, soffiando ghiaccio su tutto ciò che aveva a tiro: palazzi, piazze, giardini e fontane furono distrutti dalla forza della bufera elementale che stava calando su di loro.
