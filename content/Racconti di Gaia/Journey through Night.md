@@ -26,7 +26,9 @@ _"Sì, padre."_
 Riposte le armi, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> preparò la propria borsa e lasciò la casa.
 
 A causa delle montagne e delle fitte nuvole, su **Grà-Lin** vigeva quasi perennemente l’ombra. Per i Drow tale oscurità non rappresentava un problema, anzi lo sentivano come il proprio habitat naturale. Il giovane attraversò velocemente la città, cercando di evitare gli sguardi discriminatori dei Drow di passaggio. Raggiunse in fretta la periferia, la zona più povera della cittadella. Lì tra i vari capanni, ve n’era uno più isolato degli altri. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> entrò, e trovò sua madre Mira intenta a tagliare le foglie di una delle piantine di cui si prendeva cura. Appena lo vide, Mira si precipitò ad abbracciarlo. 
+
 _"Reon! Stai bene?"_ **Reòn** era il nome col quale Mira era solito chiamare suo figlio, rifiutandosi di usare il nome da Drow che gli era stato dato da suo padre. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> ricambiò l’abbraccio senza dire una parola. 
+
 _"Questa volta Keloth ha esagerato."_ disse lei osservando le ferite del ragazzo. La donna raccolse alcune erbe medicinali da una credenza e iniziò ad applicare degli impacchi sulle ferite più gravi.
 
 _"Madre, ti ho portato da mangiare e anche della legna, per scaldare il capanno."_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> mentre si lasciava accudire.
@@ -56,86 +58,66 @@ Ma <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relati
 <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
-## Parte 2: Meriggio
+###### Parte 2: Meriggio
 
-Tutti i giovani Drow che avevano compiuto almeno 15 anni avevano il diritto di partecipare al Trapasso.
+Tutti i giovani Drow che avevano compiuto almeno 15 anni avevano il diritto di partecipare al Trapasso. Questa usanza si era consolidata da poco più di un decennio, ed era solita avere luogo all’interno della famigerata arena di Grà-Lin, sotto lo sguardo estasiato dell’intera società Drow. Su uno dei lati dell’arena, la Grande Madre e le Matrone di ogni casata nobiliare sovrastavano i dodici partecipanti di quest’anno, mentre sugli altri lati degli spalti le masse di Drow attendevano impazienti l’inizio dell’evento.
 
-Questa usanza si era consolidata da poco più di un decennio, ed era solita avere luogo all’interno della famigerata arena di Grà-Lin, sotto lo sguardo estasiato dell’intera società Drow.
+La Grande Madre intavolò un breve discorso, dichiarando le sue alte aspettative sulle future schiere di combattenti. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> non la stava ascoltando più di tanto. Era concentrato sul suo obiettivo. La prova consisteva nell’affrontare diverse creature che sarebbero state rilasciate nell’arena. Keloth gli aveva suggerito di attaccare a distanza con l’arco mentre gli altri affrontavano i mostri corpo a corpo; era una tattica meschina, ma era anche la più sicura.
 
-Su uno dei lati dell’arena, la Grande Madre e le Matrone di ogni casata nobiliare sovrastavano i dodici partecipanti di quest’anno, mentre sugli altri lati degli spalti le masse di Drow attendevano impazienti l’inizio dell’evento.
+_"Giovani guerrieri!"_ La Grande Madre era arrivata alla conclusione del suo discorso. "_Imbevete le vostre armi del sangue dei vostri nemici e mostrate a tutti il vostro vero valore!"_
 
-La Grande Madre intavolò un breve discorso, dichiarando le sue alte aspettative sulle future schiere di combattenti. Ma ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif) non la stava ascoltando più di tanto. Era concentrato sul suo obiettivo.
+L’arena scoppiò in un boato, mentre i cancelli si alzavano e lasciavano entrare un manipolo di mostri. Cinghiali giganti, bestie distorcenti e un immenso ogre calcarono il terreno in direzione dei guerrieri. Mentre la maggior parte dei partecipanti si lanciò in avanti, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> arretrò e impugnò l’arco. Mirò e la prima freccia colpì una delle bestie sul collo, ma non era ancora morta. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> preparò la seconda freccia, ma due Drow si piazzarono davanti la sua traiettoria. 
 
-La prova consisteva nell’affrontare diverse creature che sarebbero state rilasciate nell’arena.
+_"Spostatevi!"_ urlò, ma i due non sembravano intenzionati a farlo. Lo osservavano sorridendo, dando le spalle ai mostri. Poi improvvisamente scattarono verso di lui, le armi sguainate. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> lasciò cadere l’arco e fece appena in tempo ad afferrare lo stocco per bloccare il fendente di uno dei Drow.
 
-Keloth gli aveva suggerito di attaccare a distanza con l’arco mentre gli altri affrontavano i mostri corpo a corpo; era una tattica meschina, ma era anche la più sicura.
+_"Cosa state facendo? Dobbiamo combattere contro i mostri, non tra di noi!"_
 
-«Giovani guerrieri!» La Grande Madre era arrivata alla conclusione del suo discorso. «Imbevete le vostre armi del sangue dei vostri nemici e mostrate a tutti il vostro vero valore!»
+Il secondo Drow si affiancò all'altro, e sferrò un colpo diretto al petto di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, che sgusciò via con una capriola. Quel colpo manifestò le loro intenzioni. Miravano alla sua vita.
 
-L’arena scoppiò in un boato, mentre i cancelli si alzavano e lasciavano entrare un manipolo di mostri.
+_"Da tanto aspettavo questo momento"_ disse il primo Drow. "_Uno sporco mezzo umano come te che crede di poter stare sul nostro stesso piano… è rivoltante."_
 
-Cinghiali giganti, bestie distorcenti e un immenso ogre calcarono il terreno in direzione dei guerrieri.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> non ebbe il tempo di ribattere che i due Drow furono di nuovo su di lui. Tentò di ritirarsi nel caos del combattimento centrale, e in parte funzionò: uno venne afferrato dall’ogre, ma l’altro riuscì a bloccare <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> a terra, disarmandolo.
 
-Mentre la maggior parte dei partecipanti si lanciò in avanti, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) arretrò e impugnò l’arco.
+_"Sei finito!"_ gridò questo alzando la spada sopra il suo volto.
 
-Mirò e la prima freccia colpì una delle bestie sul collo, ma non era ancora morta. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) preparò la seconda freccia, ma due Drow si piazzarono davanti la sua traiettoria.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> spostò la testa e la lama lo tagliò sul volto, lasciando un segno profondo. Poi afferrò una freccia dalla faretra e la conficcò in profondità nell’orecchio del Drow, che cadde sopra di lui, senza vita. Era la prima volta che uccideva qualcosa che non fosse un animale o un mostro. Si aspettava che avrebbe provato qualcosa, paura, disgusto, o addirittura gioia. Ma dentro di lui c’era solo il vuoto. Ancora sporco del suo sangue, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si gettò nella mischia.
 
-«Spostatevi!» urlò, ma i due non sembravano intenzionati a farlo. Lo osservavano sorridendo, dando le spalle ai mostri. Poi improvvisamente scattarono verso di lui, le armi sguainate.
+---
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) lasciò cadere l’arco e fece appena in tempo ad afferrare lo stocco per bloccare il fendente di uno dei Drow.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> aprì lentamente la porta del capanno. Come sempre, sua madre era lì ad attenderlo.
 
-«Cosa state facendo? Dobbiamo combattere contro i mostri, non tra di noi!»
+_"Reon! Mi stavo preoccupando!"_ disse lei correndogli incontro. _"Ti aspettavo ore fa… cos’è successo?"_
 
-Il secondo Drow si affiancò all'altro, e sferrò un colpo diretto al petto di ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif), che sgusciò via con una capriola.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> le raccontò nel dettaglio quanto era successo durante il Trapasso. Le raccontò dell’attacco dei due Drow, di come ne aveva ucciso uno, di come aveva affrontato il resto dei mostri, e di come la matrona Nyrr in persona lo aveva elogiato prima di accoglierlo nella sua casata. Senza accorgersene, si sentiva le guance inumidite dalle lacrime. Mira avvicinò una mano al suo volto per asciugargliele, e <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si tirò poco più indietro al contatto con il taglio rimasto sotto l’occhio.
 
-Quel colpo manifestò le loro intenzioni. Miravano alla sua vita.
+_"Scusami"_ disse Mira dispiaciuta, ma ne approfittò per studiare la ferita. "_Non è grave, ma purtroppo ti rimarrà una cicatrice…"_
 
-«Da tanto aspettavo questo momento» disse il primo Drow. «Uno sporco mezzo umano come te che crede di poter stare sul nostro stesso piano… è rivoltante.»
+_"Non mi fa male"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />. _"Ma mi sento strano. Mio padre, la matrona e tutti gli altri Drow hanno lodato le mie gesta nell’arena. Eppure io non ci trovo niente di lodevole… quando ho ucciso quel Drow non ho provato niente. Ma poi mi sono ricordato di quando mi hai detto che ogni vita è importante, e ora mi sento così sbagliato. Cosa c’è che non va in me?"_
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) non ebbe il tempo di ribattere che i due Drow furono di nuovo su di lui. Tentò di ritirarsi nel caos del combattimento centrale, e in parte funzionò: uno venne afferrato dall’ogre, ma l’altro riuscì a bloccare ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) a terra, disarmandolo.
+"_Non c’è niente che non va in te"_ rispose Mira. Si fermò prima di proseguire, soppesando bene le prossime parole. "_Ciò che provi ora dimostra solo che il tuo cuore conosce bene il valore della vita. Il tuo cuore sa che togliere una vita non è un atto insignificante. Ma sa anche quando è giusto combattere per la propria. In quel momento la scelta era tra la tua vita e la sua, e tu hai scelto di sopravvivere. E non sai quanto sono contenta che sia andata così."_
 
-«Sei finito!» gridò quello alzando la spada sopra il suo volto.
+Mira continuò. "_Quel Drow, e molti altri come lui, non conoscono il valore della vita. Loro uccidono per il solo gusto di uccidere. Ma tu Reon sei diverso, sei migliore."_
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) spostò la testa e la lama lo tagliò sul volto, lasciando un segno profondo. Poi afferrò una freccia dalla faretra e la conficcò in profondità nell’orecchio del Drow, che cadde sopra di lui, senza vita.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> abbassò lo sguardo. _"Io non credo di essere migliore di loro."_
 
-Era la prima volta che uccideva qualcosa che non fosse un animale o un mostro. Si aspettava che avrebbe provato qualcosa, paura, disgusto, o addirittura gioia. Ma dentro di lui c’era solo il vuoto. Ancora sporco del suo sangue, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) si gettò nella mischia.
+"_Io invece ci credo. Reon… sai perché ti ho dato questo nome?"_
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) aprì lentamente la porta del capanno. Come sempre, sua madre era lì ad attenderlo.
+_"Mi avevi detto che era il nome del protagonista di uno dei tanti libri che leggevi da ragazza."_
 
-«Reon! Mi stavo preoccupando!» disse lei correndogli incontro. «Ti aspettavo ore fa… cos’è successo?»
+_"Esatto. Reon era senza dubbio il mio personaggio preferito in assoluto. Era un potente paladino che usava la sua forza per proteggere chiunque avesse bisogno, sconfiggendo tutti coloro che creavano dolore e sofferenza nel mondo. Era gentile, coraggioso e umile; e io ti ho dato questo nome nella speranza che crescessi esattamente come lui."_
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) le raccontò nel dettaglio quanto era successo durante il Trapasso. Le raccontò dell’attacco dei due Drow, di come ne aveva ucciso uno, di come aveva affrontato il resto dei mostri, e di come la matrona Nyrr in persona lo aveva elogiato prima di accoglierlo nella sua casata. Senza accorgersene, si sentiva le guance inumidite dalle lacrime.
+_"Se fossi come lui sarei già riuscito a tirarti fuori da questo posto."_
 
-Mira avvicinò una mano al suo volto per asciugargliele, e ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) si tirò poco più indietro al contatto con il taglio rimasto sotto l’occhio.
+_"Non ti preoccupare Reon. Prenditi il tempo che serve per diventare come il Reon delle storie; finché manterrai il tuo cuore saldo riuscirai sicuramente a farcela. Io credo in te."_
 
-«Scusami» disse Mira dispiaciuta, ma ne approfittò per studiare la ferita. «Non è grave, ma purtroppo ti rimarrà una cicatrice…»
-
-«Non mi fa male» disse ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif). «Ma mi sento strano. Mio padre, la matrona e tutti gli altri Drow hanno lodato le mie gesta nell’arena. Eppure io non ci trovo niente di lodevole… quando ho ucciso quel Drow non ho provato niente. Ma poi mi sono ricordato di quando mi hai detto che ogni vita è importante, e ora mi sento così sbagliato. Cosa c’è che non va in me?»
-
-«Non c’è niente che non va in te» rispose Mira. Si fermò prima di proseguire, soppesando bene le prossime parole. «Ciò che provi ora dimostra solo che il tuo cuore conosce bene il valore della vita. Il tuo cuore sa che togliere una vita non è un atto insignificante. Ma sa anche quando è giusto combattere per la propria. In quel momento la scelta era tra la tua vita e la sua, e tu hai scelto di sopravvivere. E non sai quanto sono contenta che sia andata così.»
-
-Mira continuò. «Quel Drow, e molti altri come lui, non conoscono il valore della vita. Loro uccidono per il solo gusto di uccidere. Ma tu Reon sei diverso, sei migliore».
-
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) abbassò lo sguardo. «Io non credo di essere migliore di loro.»
-
-«Io invece ci credo. Reon… sai perché ti ho dato questo nome?»
-
-«Mi avevi detto che era il nome del protagonista di uno dei tanti libri che leggevi da ragazza.»
-
-«Esatto. Reon era senza dubbio il mio personaggio preferito in assoluto. Era un potente paladino che usava la sua forza per proteggere chiunque avesse bisogno, sconfiggendo tutti coloro che creavano dolore e sofferenza nel mondo. Era gentile, coraggioso e umile; e io ti ho dato questo nome nella speranza che crescessi esattamente come lui.»
-
-«Se fossi come lui sarei già riuscito a tirarti fuori da questo posto.»
-
-«Non ti preoccupare Reon. Prenditi il tempo che serve per diventare come il Reon delle storie; finché manterrai il tuo cuore saldo riuscirai sicuramente a farcela. Io credo in te.»
-
-A quelle parole ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) si sentì finalmente rincuorato. Non importa quanto ci avrebbe messo, ma avrebbe sicuramente tirato fuori sua madre da lì.
+A quelle parole <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si sentì finalmente rincuorato. Non importa quanto ci avrebbe messo, ma avrebbe sicuramente tirato fuori sua madre da lì.
 
 Da allora passarono 15 anni.
 
   <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
-## Parte 3: Crepuscolo
+###### Parte 3: Crepuscolo
 
 In quei 15 anni, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) fu impegnato perlopiù con l’addestramento di suo padre e con gli incarichi affidatigli dalla casata Nyrr. Era costretto a svolgere ogni attività con solerzia; doveva ottenere risultati costanti per soddisfare suo padre, assicurandosi di conseguenza che Mira potesse vivere serenamente. Nonostante ciò, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) dedicava ogni minuto libero a trovare un modo per fuggire da Grà-Lin.
 
