@@ -2,79 +2,79 @@ _di Alessio_
 
 ---
 
-## Parte 1: Alba
+###### Parte 1: Alba
 
-“<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" />, svegliati. E’ ora dell’allenamento. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così.
+_“<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" />, svegliati. E’ ora dell’allenamento. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così."_
 
-Da quando aveva 8 anni ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image003.gif) non aveva mai più dormito per più di 5 ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di 4 ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
+Da quando aveva 8 anni <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> non aveva mai più dormito per più di cinque ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di quattro ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
 
-Keloth aveva deciso di occuparsi personalmente dell'istruzione di ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif), invece di mandarlo in Accademia con gli altri giovani Drow. Questo perché sapeva bene che un mezzo Drow come ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) sarebbe stato preso di mira e probabilmente oppresso dai suoi compagni.
+Keloth aveva deciso di occuparsi personalmente dell'istruzione di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" />, invece di mandarlo in Accademia con gli altri giovani Drow. Questo perché sapeva bene che un mezzo Drow come <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> sarebbe stato preso di mira e probabilmente oppresso dai suoi compagni.
 
 Queste piccole cure non erano però dovute ad un affetto paterno, quanto piuttosto da un desiderio di grandezza che Keloth intendeva soddisfare tramite suo figlio.
 
-Ormai 13enne, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image003.gif) si era abituato a tale routine, anche se ultimamente l’allenamento era più arduo del solito.
+Ormai 13enne, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> si era abituato a tale routine, anche se ultimamente l’allenamento era più arduo del solito.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) sapeva bene perché. Si avvicinava il momento del Trapasso.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> sapeva bene perché. Si avvicinava il momento del **Trapasso**.
 
 Dopo una veloce colazione, prese le sue armi e raggiunse suo padre nella sala allenamento.
 
-Keloth era un Drow dai lunghi capelli bianchi decorati da alcune treccine; in passato era stato un potente guerriero, noto come il Primogenito della casata Nyrr, sotto il diretto servizio della Matrona Nyrr. Dopo un tragico evento però la parte sinistra del suo corpo aveva subito gravi danni; la gamba non lo sosteneva più e l’occhio non poteva più guidarlo, mentre il braccio ormai inutile veniva celato all’interno dei suoi vestiti.
+Keloth era un Drow dai lunghi capelli bianchi decorati da alcune treccine; in passato era stato un potente guerriero, noto come il Primogenito della **casata Nyrr**, sotto il diretto servizio della Matrona Nyrr. Dopo un tragico evento però la parte sinistra del suo corpo aveva subito gravi danni; la gamba non lo sosteneva più e l’occhio non poteva più guidarlo, mentre il braccio ormai inutile veniva celato all’interno dei suoi vestiti.
 
-Caduto in disgrazia per la perdita della sua forza, Keloth vedeva ora in ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) la sua opportunità di rivalsa; crescere un guerriero in grado di diventare il nuovo Primogenito dei Nyrr.
+Caduto in disgrazia per la perdita della sua forza, Keloth vedeva ora in <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> la sua opportunità di rivalsa; crescere un guerriero in grado di diventare il nuovo Primogenito dei Nyrr.
 
 Per farlo il primo passo importante era superare il Trapasso, il rito proposto ai giovani Drow per poter entrare a far parte del gruppo di guerrieri al servizio della propria casata.
 
-«Evita di fare movimenti inutili» lo redarguì Keloth durante il loro solito scontro di allenamento. «Per questo stile di combattimento devi usare la precisione, non la forza.»
+_"Evita di fare movimenti inutili"_ lo redarguì Keloth durante il loro solito scontro di allenamento. _"Per questo stile di combattimento devi usare la precisione, non la forza."_
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) prestò maggior attenzione ai movimenti del suo stocco, e sferrò i suoi colpi secondo le istruzioni del padre. Ogni suo attacco venne evitato; nonostante gli impedimenti fisici, suo padre rimaneva un abile combattente.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> prestò maggior attenzione ai movimenti del suo stocco, e sferrò i suoi colpi secondo le istruzioni del padre. Ogni suo attacco venne evitato; nonostante gli impedimenti fisici, suo padre rimaneva un abile combattente.
 
 L’allenamento era iniziato nel primo pomeriggio, l’ora in cui i Drow erano soliti destarsi, e terminò quando il sole era ormai calato da tempo.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) era pieno di tagli e lividi su tutto il corpo; anche se solo un addestramento, le armi che utilizzavano erano vere, e ogni errore commesso restava impresso sulla sua pelle.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> era pieno di tagli e lividi su tutto il corpo; anche se solo un addestramento, le armi che utilizzavano erano vere, e ogni errore commesso restava impresso sulla sua pelle.
 
-«Per ora può bastare» disse Keloth. «Vai a mangiare, continueremo più tardi.»
+_"Per ora può bastare"_ disse Keloth. _"Vai a mangiare, continueremo più tardi."_
 
-«Sì, padre».
+_"Sì, padre."_
 
-Riposte le armi, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) preparò la propria borsa e lasciò la casa.
+Riposte le armi, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> preparò la propria borsa e lasciò la casa.
 
-A causa delle montagne e delle fitte nuvole, su Grà-Lin vigeva quasi perennemente l’ombra. Per i Drow tale oscurità non rappresentava un problema, anzi lo sentivano come il proprio habitat naturale.
+A causa delle montagne e delle fitte nuvole, su **Grà-Lin** vigeva quasi perennemente l’ombra. Per i Drow tale oscurità non rappresentava un problema, anzi lo sentivano come il proprio habitat naturale.
 
 Il giovane attraversò velocemente la città, cercando di evitare gli sguardi discriminatori dei Drow di passaggio.
 
 Raggiunse in fretta la periferia, la zona più povera della cittadella. Lì tra i vari capanni, ve n’era uno più isolato degli altri.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) entrò, e trovò sua madre Mira intenta a tagliare le foglie di una delle piantine di cui si prendeva cura.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> entrò, e trovò sua madre Mira intenta a tagliare le foglie di una delle piantine di cui si prendeva cura.
 
-Appena lo vide, Mira si precipitò ad abbracciarlo. «Reon! Stai bene?»
+Appena lo vide, Mira si precipitò ad abbracciarlo. _"Reon! Stai bene?"_
 
-Reòn era il nome col quale Mira era solito chiamare suo figlio, rifiutandosi di usare il nome da Drow che gli era stato dato da suo padre. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) ricambiò l’abbraccio senza dire una parola.
+**Reòn** era il nome col quale Mira era solito chiamare suo figlio, rifiutandosi di usare il nome da Drow che gli era stato dato da suo padre. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> ricambiò l’abbraccio senza dire una parola.
 
-«Questa volta Keloth ha esagerato» disse lei osservando le ferite del ragazzo. La donna raccolse alcune erbe medicinali da una credenza e iniziò ad applicare degli impacchi sulle ferite più gravi.
+_"Questa volta Keloth ha esagerato."_ disse lei osservando le ferite del ragazzo. La donna raccolse alcune erbe medicinali da una credenza e iniziò ad applicare degli impacchi sulle ferite più gravi.
 
-«Madre, ti ho portato da mangiare» disse ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif) mentre si lasciava accudire. «E anche della legna, per scaldare il capanno.»
+_"Madre, ti ho portato da mangiare"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> mentre si lasciava accudire. "_E anche della legna, per scaldare il capanno."_
 
-In quanto schiava, Mira era costretta a rimanere costantemente all’interno del capanno. Tuttavia Keloth aveva acconsentito a fornirle cibo e altre piccole comodità, a patto che ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif) si impegnasse a fondo nel suo addestramento. Per questo ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) faceva il possibile per consentirle di vivere al meglio; finché riusciva ad incontrare le aspettative del padre, poteva evitare che sua madre vivesse come gli altri schiavi, costretti ai lavori forzati e alle torture dei loro padroni.
+In quanto schiava, Mira era costretta a rimanere costantemente all’interno del capanno. Tuttavia Keloth aveva acconsentito a fornirle cibo e altre piccole comodità, a patto che <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> si impegnasse a fondo nel suo addestramento. Per questo <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> faceva il possibile per consentirle di vivere al meglio; finché riusciva ad incontrare le aspettative del padre, poteva evitare che sua madre vivesse come gli altri schiavi, costretti ai lavori forzati e alle torture dei loro padroni.
 
-Dopo aver trattato le ferite e mangiato insieme un frugale pasto, Mira come di consueto cominciò a raccontargli del mondo fuori da Grà-Lin. Grazie a lei ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) aveva imparato molto sugli usi e costumi della società umana, nonché dell’esistenza di numerose altre razze. Dalle sue parole, il mondo esterno sembrava un sogno: creature di diversa razza, rango sociale e personalità coesistevano in pace.
+Dopo aver trattato le ferite e mangiato insieme un frugale pasto, Mira come di consueto cominciò a raccontargli del mondo fuori da Grà-Lin. Grazie a lei <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> aveva imparato molto sugli usi e costumi della società umana, nonché dell’esistenza di numerose altre razze. Dalle sue parole, il mondo esterno sembrava un sogno: creature di diversa razza, rango sociale e personalità coesistevano in pace.
 
-«Vorrei tanto vedere di persona il mondo là fuori» esclamò ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) alla fine dei racconti di Mira.
+_"Vorrei tanto vedere di persona il mondo là fuori!"_ esclamò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> alla fine dei racconti di Mira.
 
-«Sì, anch’io spero di poterci tornare» rispose Mira, con il tono malinconico e lo sguardo perso nel vuoto.
+_"Sì, anch’io spero di poterci tornare."_ rispose Mira, con il tono malinconico e lo sguardo perso nel vuoto.
 
-Mira aveva poco più di 30 anni, e aveva passato ormai un terzo della sua vita imprigionata in quella gabbia. Solo a pensarci ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) si sentiva ribollire di rabbia.
+Mira aveva poco più di 30 anni, e aveva passato ormai un terzo della sua vita imprigionata in quella gabbia. Solo a pensarci <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> si sentiva ribollire di rabbia.
 
 Il giovane mezzo Drow le prese una mano e incontrò il suo sguardo.
 
-«Madre, prometto che un giorno ti porterò via da qui, e allora saremo liberi di fare quello che vogliamo. Potremo tornare nel tuo villaggio natale, girare per le capitali dei grandi regni, e perché no, visitare terre sconosciute… aspetta solo che io diventi abbastanza forte per tirarci fuori da qui, va bene?»
+_"Madre, prometto che un giorno ti porterò via da qui, e allora saremo liberi di fare quello che vogliamo. Potremo tornare nel tuo villaggio natale, girare per le capitali dei grandi regni, e perché no, visitare terre sconosciute… aspetta solo che io diventi abbastanza forte per tirarci fuori da qui, va bene?"_
 
 Mira si lasciò scappare un risolino, abbassando la testa per nascondere gli occhi umidi.
 
-«Va bene, Reon. Mi affido a te.»
+"_Va bene, Reon. Mi affido a te."_
 
 I due si abbracciarono con forza, con una neonata speranza nei loro cuori, figlia di quella promessa.
 
-Ma ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) in quel momento ancora non sapeva che non sarebbe mai riuscito a mantenerla.
+Ma <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px;" /> in quel momento ancora non sapeva che non sarebbe mai riuscito a mantenerla.
 
 <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
