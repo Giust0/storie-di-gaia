@@ -4,7 +4,7 @@ _di Alessio_
 
 ###### Parte 1: Alba
 
-_“<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, svegliati. E’ ora dell’allenamento. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così."_
+_“<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, svegliati. E’ ora dell’allenamento."_ <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così.
 
 Da quando aveva 8 anni <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> non aveva mai più dormito per più di cinque ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di quattro ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
 
@@ -58,6 +58,7 @@ Ma <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relati
 <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
+
 ###### Parte 2: Meriggio
 
 Tutti i giovani Drow che avevano compiuto almeno 15 anni avevano il diritto di partecipare al Trapasso. Questa usanza si era consolidata da poco più di un decennio, ed era solita avere luogo all’interno della famigerata arena di Grà-Lin, sotto lo sguardo estasiato dell’intera società Drow. Su uno dei lati dell’arena, la Grande Madre e le Matrone di ogni casata nobiliare sovrastavano i dodici partecipanti di quest’anno, mentre sugli altri lati degli spalti le masse di Drow attendevano impazienti l’inizio dell’evento.
