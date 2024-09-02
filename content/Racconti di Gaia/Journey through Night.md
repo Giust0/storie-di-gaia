@@ -93,7 +93,7 @@ _"Reon! Mi stavo preoccupando!"_ disse lei correndogli incontro. _"Ti aspettavo 
 
 _"Scusami"_ disse Mira dispiaciuta, ma ne approfittò per studiare la ferita. "_Non è grave, ma purtroppo ti rimarrà una cicatrice…"_
 
-_"Non mi fa male"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />. _"Ma mi sento strano. Mio padre, la matrona e tutti gli altri Drow hanno lodato le mie gesta nell’arena. Eppure io non ci trovo niente di lodevole… quando ho ucciso quel Drow non ho provato niente. Ma poi mi sono ricordato di quando mi hai detto che ogni vita è importante, e ora mi sento così sbagliato. Cosa c’è che non va in me?"_
+_"Non mi fa male, ma mi sento strano. Mio padre, la matrona e tutti gli altri Drow hanno lodato le mie gesta nell’arena. Eppure io non ci trovo niente di lodevole… quando ho ucciso quel Drow non ho provato niente. Ma poi mi sono ricordato di quando mi hai detto che ogni vita è importante, e ora mi sento così sbagliato. Cosa c’è che non va in me?"_
 
 "_Non c’è niente che non va in te"_ rispose Mira. Si fermò prima di proseguire, soppesando bene le prossime parole. "_Ciò che provi ora dimostra solo che il tuo cuore conosce bene il valore della vita. Il tuo cuore sa che togliere una vita non è un atto insignificante. Ma sa anche quando è giusto combattere per la propria. In quel momento la scelta era tra la tua vita e la sua, e tu hai scelto di sopravvivere. E non sai quanto sono contenta che sia andata così."_
 
@@ -232,7 +232,7 @@ Abbandonandosi tutto alle spalle, senza un nome e senza un obiettivo, il mezzo D
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
 
-## Parte 4: Notte
+###### Parte 4: Notte
 
 Il villaggio natale di Mira era un piccolo villaggio circondato dai boschi, a qualche giorno di distanza da Grà-Lin.
 
