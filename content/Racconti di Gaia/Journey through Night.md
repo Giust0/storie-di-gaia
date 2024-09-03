@@ -6,12 +6,12 @@ _di Alessio_
 
 _“<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, svegliati. E’ ora dell’allenamento."_ <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> balzò immediatamente in piedi. Era ancora stanco, ma ormai era abituato a svegliarsi così.
 
-Da quando aveva 8 anni <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> non aveva mai più dormito per più di cinque ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di quattro ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
+Da quando aveva otto anni <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> non aveva mai più dormito per più di cinque ore consecutive, costretto da suo padre Keloth ad alzarsi per l’allenamento quotidiano; giacché i Drow avevano bisogno solo di quattro ore per un riposo completo, quella ora extra gli era stata concessa da suo padre per compensare la sua debole metà umana.
 
 Keloth aveva deciso di occuparsi personalmente dell'istruzione di 
 <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, invece di mandarlo in Accademia con gli altri giovani Drow. Questo perché sapeva bene che un mezzo Drow come <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> sarebbe stato preso di mira e probabilmente oppresso dai suoi compagni. Queste piccole cure non erano però dovute ad un affetto paterno, quanto piuttosto da un desiderio di grandezza che Keloth intendeva soddisfare tramite suo figlio. 
 
-Ormai 13enne, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si era abituato a tale routine, anche se ultimamente l’allenamento era più arduo del solito e sapeva bene perché. Si avvicinava il momento del **Trapasso**. Dopo una veloce colazione, prese le sue armi e raggiunse suo padre nella sala allenamento.
+Ormai tredicenne, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si era abituato a tale routine, anche se ultimamente l’allenamento era più arduo del solito e sapeva bene perché. Si avvicinava il momento del **Trapasso**. Dopo una veloce colazione, prese le sue armi e raggiunse suo padre nella sala allenamento.
 
 Keloth era un Drow dai lunghi capelli bianchi decorati da alcune treccine; in passato era stato un potente guerriero, noto come il Primogenito della **casata Nyrr**, sotto il diretto servizio della Matrona Nyrr. Dopo un tragico evento però la parte sinistra del suo corpo aveva subito gravi danni; la gamba non lo sosteneva più e l’occhio non poteva più guidarlo, mentre il braccio ormai inutile veniva celato all’interno dei suoi vestiti. Caduto in disgrazia per la perdita della sua forza, Keloth vedeva ora in <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> la sua opportunità di rivalsa; crescere un guerriero in grado di diventare il nuovo Primogenito dei Nyrr. Per farlo il primo passo importante era superare il Trapasso, il rito proposto ai giovani Drow per poter entrare a far parte del gruppo di guerrieri al servizio della propria casata.
 
@@ -41,7 +41,7 @@ _"Vorrei tanto vedere di persona il mondo là fuori!"_ esclamò <img src="./Asse
 
 _"Sì, anch’io spero di poterci tornare."_ rispose Mira, con il tono malinconico e lo sguardo perso nel vuoto.
 
-Mira aveva poco più di 30 anni, e aveva passato ormai un terzo della sua vita imprigionata in quella gabbia. Solo a pensarci <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si sentiva ribollire di rabbia.
+Mira aveva poco più di trent'anni, e aveva passato ormai un terzo della sua vita imprigionata in quella gabbia. Solo a pensarci <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si sentiva ribollire di rabbia.
 
 Il giovane mezzo Drow le prese una mano e incontrò il suo sguardo.
 
@@ -115,7 +115,7 @@ _"Non ti preoccupare Reon. Prenditi il tempo che serve per diventare come il Reo
 
 A quelle parole <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si sentì finalmente rincuorato. Non importa quanto ci avrebbe messo, ma avrebbe sicuramente tirato fuori sua madre da lì.
 
-Da allora passarono 15 anni.
+Da allora passarono quindici anni.
 
   <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
@@ -123,7 +123,7 @@ Da allora passarono 15 anni.
 
 ###### Parte 3: Crepuscolo
 
-In quei 15 anni, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> fu impegnato perlopiù con l’addestramento di suo padre e con gli incarichi affidatigli dalla casata Nyrr. Era costretto a svolgere ogni attività con solerzia; doveva ottenere risultati costanti per soddisfare suo padre, assicurandosi di conseguenza che Mira potesse vivere serenamente. Nonostante ciò, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> dedicava ogni minuto libero a trovare un modo per fuggire da Grà-Lin.
+In quei quindici anni, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> fu impegnato perlopiù con l’addestramento di suo padre e con gli incarichi affidatigli dalla casata Nyrr. Era costretto a svolgere ogni attività con solerzia; doveva ottenere risultati costanti per soddisfare suo padre, assicurandosi di conseguenza che Mira potesse vivere serenamente. Nonostante ciò, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> dedicava ogni minuto libero a trovare un modo per fuggire da Grà-Lin.
 
 Aveva avuto modo, grazie anche ai suoi incarichi, di studiare il territorio circostante e analizzare i punti deboli della sorveglianza dei Drow. Doveva ammettere che Grà-Lin disponeva di ottime difese: le pareti rocciose e le conifere che la circondavano permettevano un solo vero accesso alla cittadella, **il Valico**.
 
@@ -387,7 +387,7 @@ La **città di Jid’Ian** era in fermento. Sembrava esserci un grande evento in
 
 Un individuo incappucciato e completamente vestito di nero si destreggiava tra la folla.
 
-Nei suoi 60 anni di vita non era mai stato in una città così grande, ma la ricerca di nuovi lavori lo aveva portato fin laggiù.
+Nei suoi sessant'anni di vita non era mai stato in una città così grande, ma la ricerca di nuovi lavori lo aveva portato fin laggiù.
 
 Guardando la commistione di razze tra la gente, sotto la sua maschera bianca, il Gufo lasciò passare un sospiro.
 
