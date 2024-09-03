@@ -98,7 +98,9 @@ _"Non mi fa male, ma mi sento strano. Mio padre, la matrona e tutti gli altri Dr
 
 Mira continuò. "_Quel Drow, e molti altri come lui, non conoscono il valore della vita. Loro uccidono per il solo gusto di uccidere. Ma tu Reon sei diverso, sei migliore."_
 
-<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> abbassò lo sguardo. _"Io non credo di essere migliore di loro."_
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> abbassò lo sguardo. 
+
+_"Io non credo di essere migliore di loro."_
 
 "_Io invece ci credo. Reon… sai perché ti ho dato questo nome?"_
 
@@ -129,7 +131,9 @@ Per questo <img src="./Assets/clip_image001.png" style="max-width: 10%; position
 
 <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> capì che non aveva più tanto tempo a disposizione. Era diventato piuttosto forte, al punto da generare ulteriori invidie e rancori tra i Drow della sua stessa casata, che spesso lo ostacolavano nei suoi incarichi e delle volte lo attaccavano con intenti omicidi. Queste avversità non fecero altro che temprare <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> fisicamente e mentalmente; le lame e le parole che prima erano in grado di ferirlo, ora venivano respinte con naturalezza. Ora era pronto.
 
-_"Madre"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> mentre Mira riposava sul suo modesto giaciglio. _"Quest’oggi andrò a svolgere un incarico che potrebbe prendermi più tempo del solito. Ma sarà l’ultimo: quando tornerò scapperemo finalmente via di qui, insieme."_
+_"Madre"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> mentre Mira riposava sul suo modesto giaciglio. 
+
+_"Quest’oggi andrò a svolgere un incarico che potrebbe prendermi più tempo del solito. Ma sarà l’ultimo: quando tornerò scapperemo finalmente via di qui, insieme."_
 
 Mira sorrise accarezzando i lunghi capelli bianchi di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />. 
 
@@ -147,7 +151,9 @@ _"Per qualche motivo, ne dubito. Sai <img src="./Assets/clip_image001.png" style
 
 _"Mi spiace padre. Prometto che dalla prossima volta mi impegnerò ancora di più."_
 
-Keloth indicò il corposo zaino che <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> aveva in spalla. _"Dove stai andando?"_
+Keloth indicò il corposo zaino che <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> aveva in spalla. 
+
+_"Dove stai andando?"_
 
 _"Da mia madre. Ultimamente non sta benissimo, e vorrei darle tutte le cure necessarie."_
 
@@ -173,7 +179,9 @@ _"Nessuno l’ha aiutata?"_
 
 _"Anche se qualcuno ci avesse provato, non credo che lei si sarebbe salvata."_
 
-<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> gli puntò contro il suo stocco.  _"Dì la verità. Sei stato tu ad ucciderla?"_
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> gli puntò contro il suo stocco.  
+
+_"Dì la verità. Sei stato tu ad ucciderla?"_
 
 Keloth sorrise di fronte a quell’atto di ribellione, il primo dopo 30 anni.
 
@@ -201,7 +209,7 @@ La sua visione si concentrò a tunnel su Keloth. Raccolse lo stocco e lanciò un
 
 _"E’ finita"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, pronto a sferrare il colpo di grazia. Ma guardando il volto sorridente di suo padre, si fermò. Prendere la sua vita non avrebbe protetto nessuno, perché ormai non aveva più nulla da proteggere. Uccidendolo avrebbe semplicemente dimostrato di essere come un qualunque altro Drow.
 
-_"Non sarò mai quello che tu vuoi"_ esclamò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> rinfoderando lo stocco. Dopodiché lasciò quella casa e non vi fece più ritorno. La fuga proseguì senza alcun problema. Senza sua madre, era risultata molto più semplice del previsto. Quando lasciò la foresta dietro di sé, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si rese conto di essere finalmente libero da quella gabbia.
+_"Non sarò mai quello che tu vuoi."_ esclamò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> rinfoderando lo stocco. Dopodiché lasciò quella casa e non vi fece più ritorno. La fuga proseguì senza alcun problema. Senza sua madre, era risultata molto più semplice del previsto. Quando lasciò la foresta dietro di sé, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si rese conto di essere finalmente libero da quella gabbia.
 
 Avrebbe dovuto essere felice ma non lo era. **Aveva infranto la sua promessa.** Non era riuscito a proteggere l’unica persona che aveva giurato di proteggere. Non poteva più essere il Reon delle storie, non aveva il diritto di farsi chiamare così.
 
