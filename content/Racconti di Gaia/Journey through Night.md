@@ -58,6 +58,7 @@ Ma <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relati
 <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
+
 ###### Parte 2: Meriggio
 
 Tutti i giovani Drow che avevano compiuto almeno 15 anni avevano il diritto di partecipare al Trapasso. Questa usanza si era consolidata da poco più di un decennio, ed era solita avere luogo all’interno della famigerata arena di Grà-Lin, sotto lo sguardo estasiato dell’intera società Drow. Su uno dei lati dell’arena, la Grande Madre e le Matrone di ogni casata nobiliare sovrastavano i dodici partecipanti di quest’anno, mentre sugli altri lati degli spalti le masse di Drow attendevano impazienti l’inizio dell’evento.
@@ -119,6 +120,7 @@ Da allora passarono 15 anni.
   <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
+
 ###### Parte 3: Crepuscolo
 
 In quei 15 anni, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> fu impegnato perlopiù con l’addestramento di suo padre e con gli incarichi affidatigli dalla casata Nyrr. Era costretto a svolgere ogni attività con solerzia; doveva ottenere risultati costanti per soddisfare suo padre, assicurandosi di conseguenza che Mira potesse vivere serenamente. Nonostante ciò, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> dedicava ogni minuto libero a trovare un modo per fuggire da Grà-Lin.
@@ -218,33 +220,36 @@ Abbandonandosi tutto alle spalle, senza un nome e senza un obiettivo, il mezzo D
   <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
+
 ###### Parte 4: Notte
 
 Il villaggio natale di Mira era un piccolo villaggio circondato dai boschi, a qualche giorno di distanza da Grà-Lin.
 
-Sua madre gliene aveva parlato spesso, perciò ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image011.gif) lo ritrovò facilmente.
+Sua madre gliene aveva parlato spesso, perciò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> lo ritrovò facilmente.
 
 Lo aveva osservato da lontano per qualche ora, titubante se avvicinarsi o meno. Ma quando vide gli umani e le altre razze interagire, vedendo le loro risate e il loro spirito di collaborazione, si fece coraggio.
 
 Entrò nel villaggio a piccoli passi. Da dove cominciare? Iniziò a guardarsi intorno, cercando la casa ci cui Mira gli aveva tanto parlato. Forse lì avrebbe trovato il resto della sua famiglia.
 
-Incrociò un paio di giovani madri nel tragitto. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) alzò la mano per accennare un saluto, ma alla sua vista quelle corsero via, portando via i propri figli. Un vecchio anziano si affrettò a rientrare in casa.
+Incrociò un paio di giovani madri nel tragitto. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> alzò la mano per accennare un saluto, ma alla sua vista quelle corsero via, portando via i propri figli. Un vecchio anziano si affrettò a rientrare in casa.
 
-Interdetto, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif) proseguì fino a trovare la casa di Mira. Una volta gliel’aveva disegnata, perciò sapeva come appariva. Quando la trovò tuttavia, era un po’ diversa da come se l’aspettava. Era malandata, e chiaramente disabitata da anni.
+Interdetto, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> proseguì fino a trovare la casa di Mira. Una volta gliel’aveva disegnata, perciò sapeva come appariva. Quando la trovò tuttavia, era un po’ diversa da come se l’aspettava. Era malandata, e chiaramente disabitata da anni.
 
 Avvertì dei rumori alle sue spalle e si ritrovò circondato da uomini armati di balestra e forconi.
 
-«Cosa ci fa uno sporco Drow nel nostro villaggio? Non avete preso abbastanza l’ultima volta?» urlò uno di loro.
+"_Cosa ci fa uno sporco Drow nel nostro villaggio? Non avete preso abbastanza l’ultima volta?"_ urlò uno di loro.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) alzò le mani in segna di resa. «Non sono un Drow. Non voglio farvi del male, sono qui solo per…»
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> alzò le mani in segna di resa. 
 
-Un dardo partì verso il suo volto, e ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) lo schivò appena, restando ferito nella zona del sopracciglio destro.
+_"Non sono un Drow. Non voglio farvi del male, sono qui solo per…"_
 
-«Và via! Non vi permetteremo più di fare quello che volete!» esclamò l’uomo che aveva scagliato il dardo. Tutti gli altri si unirono al coro, dichiarando la loro ostilità e seguendo il suo esempio.
+Un dardo partì verso il suo volto, e <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> lo schivò appena, restando ferito nella zona del sopracciglio destro.
 
-Una pioggia di dardi colpì ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) su tutto il corpo. Lui non aveva intenzione di combattere, ma l’istinto di sopravvivenza prevalse, ed estrasse lo stocco.
+_"Và via! Non vi permetteremo più di fare quello che volete!"_ esclamò l’uomo che aveva scagliato il dardo. Tutti gli altri si unirono al coro, dichiarando la loro ostilità e seguendo il suo esempio.
 
-Qualche uomo urlò spaventato e ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) vide il terrore e l’odio nei loro occhi.
+Una pioggia di dardi colpì <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> su tutto il corpo. Lui non aveva intenzione di combattere, ma l’istinto di sopravvivenza prevalse, ed estrasse lo stocco.
+
+Qualche uomo urlò spaventato e <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> vide il terrore e l’odio nei loro occhi.
 
 A quel punto evocò una nube di nebbia e la usò per fuggire via, trascinandosi non senza problemi il suo corpo ormai trafitto da numerosi dardi.
 
@@ -258,69 +263,71 @@ Osservando il proprio riflesso nell’acqua esaminò la ferita sul suo viso. Ora
 
 In quel momento comprese: il mondo che tanto sognava di vedere da ragazzo non avrebbe mai accettato un mezzo Drow come lui.
 
-Passarono diverse settimane. Nonostante il senso di vuoto, lo spirito di sopravvivenza di ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) gli impedì di abbandonarsi semplicemente alla morte. Trascorse quel tempo nei boschi a procacciarsi quanto necessario, senza uno scopo ben preciso. I giorni trascorrevano uguali, in totale solitudine.
+Passarono diverse settimane. Nonostante il senso di vuoto, lo spirito di sopravvivenza di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> gli impedì di abbandonarsi semplicemente alla morte. Trascorse quel tempo nei boschi a procacciarsi quanto necessario, senza uno scopo ben preciso. I giorni trascorrevano uguali, in totale solitudine.
 
 Un giorno avvertì un rumore diverso dal solito. Era la voce affannosa di una creatura senziente.
 
 Sbirciando tra i cespugli, il mezzo Drow avvistò un piccolo gnomo in fuga da un ragno gigante. Lo osservò mentre tentava invano di mettere distanza tra sé stesso e il mostro.
 
-Quando inciampò ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) capì che per lui era finita. Era la legge del più forte, ormai lo sapeva bene dopo aver vissuto in quei boschi.
+Quando inciampò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> capì che per lui era finita. Era la legge del più forte, ormai lo sapeva bene dopo aver vissuto in quei boschi.
 
 Senza accorgersene si ritrovò ad imbracciare il suo arco. Cosa voleva fare? Gli erano rimaste solo quattro frecce. Non aveva alcun motivo per salvarlo, si sarebbe solo messo in pericolo.
 
 Il ragno era sopra lo gnomo, che urlò terrorizzato.
 
-Quell’urlo risvegliò qualcosa in ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif). Quello gnomo aveva paura perché voleva continuare a vivere. La sua vita aveva un valore, ma non aveva il potere per difenderla.
+Quell’urlo risvegliò qualcosa in <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />. Quello gnomo aveva paura perché voleva continuare a vivere. La sua vita aveva un valore, ma non aveva il potere per difenderla.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) aveva il potere, ma quale valore aveva la sua vita?
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> aveva il potere, ma quale valore aveva la sua vita?
 
 “_Il valore di una persona non è dato dalla razza, dal rango sociale o dalla sua personalità; sono le sue azioni a determinare chi è davvero_.”
 
-Due frecce colpirono il retro del mostro, che si contorse dal dolore, per poi girarsi verso chi l’aveva lanciate. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) si gettò in scivolata tra le sue zampe, infilzandolo con un’altra freccia al costato.
+Due frecce colpirono il retro del mostro, che si contorse dal dolore, per poi girarsi verso chi l’aveva lanciate. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si gettò in scivolata tra le sue zampe, infilzandolo con un’altra freccia al costato.
 
 Il ragno rotolò su sé stesso, cercando di fuggire, ma un’ultima freccia alla testa mise fine alla sua vita.
 
 Lo gnomo guardò il mezzo Drow, ancora stupito di essere vivo.
 
-«G-grazie» disse lo gnomo balbettando.
+_"G-grazie"_ disse lo gnomo balbettando.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) l’aveva trovato. Ormai non aveva più nulla; non aveva una casa, una famiglia o un mondo che lo accettasse. Ma finché continuava ad usare il suo potere per aiutare chi ne aveva bisogno, la sua vita aveva ancora valore.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> l’aveva trovato. Ormai non aveva più nulla; non aveva una casa, una famiglia o un mondo che lo accettasse. Ma finché continuava ad usare il suo potere per aiutare chi ne aveva bisogno, la sua vita aveva ancora valore.
 
-Lo gnomo si presentò col nome di Colin; era uno gnomo viaggiatore che passava lì nei boschi per caso. Quando gli venne chiesto il nome, il mezzo Drow rispose solo «Il mio nome non ha importanza.»
+Lo gnomo si presentò col nome di Colin; era uno gnomo viaggiatore che passava lì nei boschi per caso. Quando gli venne chiesto il nome, il mezzo Drow rispose solo _"Il mio nome non ha importanza."_
 
 Lo gnomo non sembrava particolarmente spaventato e per sdebitarsi gli regalò uno dei suoi libri, che elencava diversi tipi di piante e alcune tecniche di sopravvivenza nella natura.
 
-Colin preparò un falò e gettò in un pentola diversi ingredienti. Sotto richiesta dello gnomo, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) restò a mangiare con lui.
+Colin preparò un falò e gettò in un pentola diversi ingredienti. Sotto richiesta dello gnomo, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> restò a mangiare con lui.
 
-«Il legno posso procurarmelo facilmente, ma il metallo per le mie frecce sarà un po’ più difficile da trovare» esclamò ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image009.gif) esponendo il suo problema principale al momento.
+_"Il legno posso procurarmelo facilmente, ma il metallo per le mie frecce sarà un po’ più difficile da trovare»"_ esclamò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> esponendo il suo problema principale al momento.
 
-«Ah, purtroppo non ho metalli utili con me, ma dovresti poterli recuperare dai villaggi vicini.»
+_"Ah, purtroppo non ho metalli utili con me, ma dovresti poterli recuperare dai villaggi vicini."_
 
-«Non ho soldi, e non ho modo di procurarmeli. Inoltre non credo di essere ben accetto lì.»
+_"Non ho soldi, e non ho modo di procurarmeli. Inoltre non credo di essere ben accetto lì."_
 
-Colin comprese subito il suo dilemma. «Sei piuttosto forte, quindi per i soldi potresti trovarti qualche lavoretto come cacciatore di mostri o come mercenario.»
+Colin comprese subito il suo dilemma. 
 
-«Sarebbe difficile farmi assegnare un lavoro senza scatenare il panico dei cittadini.»
+_"Sei piuttosto forte, quindi per i soldi potresti trovarti qualche lavoretto come cacciatore di mostri o come mercenario."_
 
-«Se avessi un modo per camuffare il tuo aspetto non credo che avrai problemi.»
+_"Sarebbe difficile farmi assegnare un lavoro senza scatenare il panico dei cittadini."_
 
-«Non conosco alcun incantesimo di quel tipo. E impararlo impiegherà tempo.»
+_"Se avessi un modo per camuffare il tuo aspetto non credo che avrai problemi."_
+
+_"Non conosco alcun incantesimo di quel tipo. E impararlo impiegherà tempo."_
 
 Colin prese un pezzo di corteccia da terra e vi fece due buchi. Poi lo portò davanti la faccia, a mo’ di maschera.
 
-«Beh, allora potresti andare così» e scoppiò a ridere da solo.
+_"Beh, allora potresti andare così"_ e scoppiò a ridere da solo.
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) gli rubò dalle mani il pezzo di corteccia.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> gli rubò dalle mani il pezzo di corteccia.
 
-«Potrebbe non essere una cattiva idea.»
+_"Potrebbe non essere una cattiva idea."_
 
   <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
 
-**Un giorno come un altro**
+###### Un giorno come un altro
 
-Il Gufo, così lo chiamavano ormai da alcuni anni, passava la maggior parte del tempo ad affinare le sue tecniche tra i boschi innevati dell’Armonium. Tendeva periodicamente a cambiare posto, ma nonostante non potesse esattamente definirli una casa, i boschi erano il luogo in cui preferiva stare: piante e animali gli fornivano sostentamento e materiali, le cime degli alberi e l'oscurità che proiettavano gli offrivano un posto nascosto dove riposare. Certo, le intemperie e i predatori erano un problema, ma almeno lì non doveva assistere all’odio degli uomini o alla crudeltà dei Drow.
+**Il Gufo**, così lo chiamavano ormai da alcuni anni, passava la maggior parte del tempo ad affinare le sue tecniche tra i boschi innevati dell’Armonium. Tendeva periodicamente a cambiare posto, ma nonostante non potesse esattamente definirli una casa, i boschi erano il luogo in cui preferiva stare: piante e animali gli fornivano sostentamento e materiali, le cime degli alberi e l'oscurità che proiettavano gli offrivano un posto nascosto dove riposare. Certo, le intemperie e i predatori erano un problema, ma almeno lì non doveva assistere all’odio degli uomini o alla crudeltà dei Drow.
 
 Al contrario delle persone, la natura non aveva malignità; era pura questione di sopravvivenza.
 
@@ -373,9 +380,10 @@ Quel giorno ne gettò via gli ultimi pezzi. Da ora avrebbe agito solo secondo la
 <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
-## 30 anni dopo
 
-La città di Jid’Ian era in fermento. Sembrava esserci un grande evento in corso.
+###### Trent'anni dopo
+
+La **città di Jid’Ian** era in fermento. Sembrava esserci un grande evento in corso.
 
 Un individuo incappucciato e completamente vestito di nero si destreggiava tra la folla.
 
@@ -383,7 +391,7 @@ Nei suoi 60 anni di vita non era mai stato in una città così grande, ma la ric
 
 Guardando la commistione di razze tra la gente, sotto la sua maschera bianca, il Gufo lasciò passare un sospiro.
 
-«Forse qui riuscirò a trovare il mio posto.»
+_"Forse qui riuscirò a trovare il mio posto."_
 
 <p style="text-align: center">
 <img src="./Assets/Logo Storie di Gaia.png" style="max-width: 25%" />
