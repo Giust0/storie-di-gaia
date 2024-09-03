@@ -58,7 +58,6 @@ Ma <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relati
 <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
-
 ###### Parte 2: Meriggio
 
 Tutti i giovani Drow che avevano compiuto almeno 15 anni avevano il diritto di partecipare al Trapasso. Questa usanza si era consolidata da poco più di un decennio, ed era solita avere luogo all’interno della famigerata arena di Grà-Lin, sotto lo sguardo estasiato dell’intera società Drow. Su uno dei lati dell’arena, la Grande Madre e le Matrone di ogni casata nobiliare sovrastavano i dodici partecipanti di quest’anno, mentre sugli altri lati degli spalti le masse di Drow attendevano impazienti l’inizio dell’evento.
@@ -120,118 +119,97 @@ Da allora passarono 15 anni.
 </p>
 ###### Parte 3: Crepuscolo
 
-In quei 15 anni, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) fu impegnato perlopiù con l’addestramento di suo padre e con gli incarichi affidatigli dalla casata Nyrr. Era costretto a svolgere ogni attività con solerzia; doveva ottenere risultati costanti per soddisfare suo padre, assicurandosi di conseguenza che Mira potesse vivere serenamente. Nonostante ciò, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) dedicava ogni minuto libero a trovare un modo per fuggire da Grà-Lin.
+In quei 15 anni, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> fu impegnato perlopiù con l’addestramento di suo padre e con gli incarichi affidatigli dalla casata Nyrr. Era costretto a svolgere ogni attività con solerzia; doveva ottenere risultati costanti per soddisfare suo padre, assicurandosi di conseguenza che Mira potesse vivere serenamente. Nonostante ciò, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> dedicava ogni minuto libero a trovare un modo per fuggire da Grà-Lin.
 
-Aveva avuto modo, grazie anche ai suoi incarichi, di studiare il territorio circostante e analizzare i punti deboli della sorveglianza dei Drow. Doveva ammettere che Grà-Lin disponeva di ottime difese: le pareti rocciose e le conifere che la circondavano permettevano un solo vero accesso alla cittadella, il Valico.
+Aveva avuto modo, grazie anche ai suoi incarichi, di studiare il territorio circostante e analizzare i punti deboli della sorveglianza dei Drow. Doveva ammettere che Grà-Lin disponeva di ottime difese: le pareti rocciose e le conifere che la circondavano permettevano un solo vero accesso alla cittadella, **il Valico**.
 
-Il Valico era un sentiero che passava per una fitta foresta, che si diradava solo poco prima di raggiungere la frontiera di Grà-Lin. Era ovviamente sorvegliato dai lati, e la foresta pullulava di Drow e bestie distorcenti di pattuglia.
+Il Valico era un sentiero che passava per una fitta foresta, che si diradava solo poco prima di raggiungere la frontiera di Grà-Lin. Era ovviamente sorvegliato dai lati, e la foresta pullulava di Drow e bestie distorcenti di pattuglia. Era impossibile per una grande armata attraversare il Valico senza essere avvistata, e anche per un manipolo di persone non era affatto facile.
 
-Era impossibile per una grande armata attraversare il Valico senza essere avvistata, e anche per un manipolo di persone non era affatto facile.
+Per questo <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> allenò le sue tecniche furtive, in modo da poter scortare sua madre col minore rischio possibile. Non sarebbe stato facile considerando che lei non aveva alcuna atleticità. C’era inoltre un altro fattore che <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> non aveva considerato, poiché omesso volontariamente da Mira; per gli umani il tempo era particolarmente tiranno. Ormai una donna di mezza età, Mira mostrava ormai diverse rughe sul volto, e soffriva di diversi dolori; tutti quegli anni passati in prigionia e in misere condizioni l’avevano invecchiata ancora di più del solito.
 
-Per questo ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) allenò le sue tecniche furtive, in modo da poter scortare sua madre col minore rischio possibile. Non sarebbe stato facile considerando che lei non aveva alcuna atleticità.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> capì che non aveva più tanto tempo a disposizione. Era diventato piuttosto forte, al punto da generare ulteriori invidie e rancori tra i Drow della sua stessa casata, che spesso lo ostacolavano nei suoi incarichi e delle volte lo attaccavano con intenti omicidi. Queste avversità non fecero altro che temprare <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> fisicamente e mentalmente; le lame e le parole che prima erano in grado di ferirlo, ora venivano respinte con naturalezza. Ora era pronto.
 
-C’era inoltre un altro fattore che ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) non aveva considerato, poiché omesso volontariamente da Mira; per gli umani il tempo era particolarmente tiranno.
+_"Madre"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> mentre Mira riposava sul suo modesto giaciglio. _"Quest’oggi andrò a svolgere un incarico che potrebbe prendermi più tempo del solito. Ma sarà l’ultimo: quando tornerò scapperemo finalmente via di qui, insieme."_
 
-Ormai una donna di mezza età, Mira mostrava ormai diverse rughe sul volto, e soffriva di diversi dolori; tutti quegli anni passati in prigionia e in misere condizioni l’avevano invecchiata ancora di più del solito.
+Mira sorrise accarezzando i lunghi capelli bianchi di <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />. 
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) capì che non aveva più tanto tempo a disposizione. Era diventato piuttosto forte, al punto da generare ulteriori invidie e rancori tra i Drow della sua stessa casata, che spesso lo ostacolavano nei suoi incarichi e delle volte lo attaccavano con intenti omicidi. Queste avversità non fecero altro che temprare ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) fisicamente e mentalmente; le lame e le parole che prima erano in grado di ferirlo, ora venivano respinte con naturalezza. Ora era pronto.
+_"Va bene, Reon. Ti aspetto qui."_
 
-«Madre» disse ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif) mentre Mira riposava sul suo modesto giaciglio. «Quest’oggi andrò a svolgere un incarico che potrebbe prendermi più tempo del solito. Ma sarà l’ultimo: quando tornerò scapperemo finalmente via di qui, insieme.»
+Al ritorno dal suo incarico, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> passò dalla casa di Keloth per recuperare lo zaino che conteneva il necessario per la fuga. Era stato via per più di un giorno, perciò non voleva perdere ulteriore tempo, sarebbe passato per il capanno e avrebbe portato via sua madre. Ma quando si apprestò ad uscire, incontrò Keloth, immobile sulla soglia, con il suo solito sguardo gelido.
 
-Mira sorrise accarezzando i lunghi capelli bianchi di ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif). «Va bene, Reon. Ti aspetto qui.»
+_"Sei tornato dal tuo incarico? Spero tu abbia fatto il tuo dovere."_
 
-Al ritorno dal suo incarico, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif) passò dalla casa di Keloth per recuperare lo zaino che conteneva il necessario per la fuga.
+_"Sì, padre, ho fatto del mio meglio, come sempre."_
 
-Era stato via per più di un giorno, perciò non voleva perdere ulteriore tempo, sarebbe passato per il capanno e avrebbe portato via sua madre.
+_"Per qualche motivo, ne dubito. Sai <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, ho l’impressione che recentemente tu stia battendo la fiacca."_
 
-Ma quando si apprestò ad uscire, incontrò Keloth, immobile sulla soglia, con il suo solito sguardo gelido.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> era stufo, non voleva scambiare un’altra parola con lui, ma doveva mantenere la facciata.
 
-«Sei tornato dal tuo incarico? Spero tu abbia fatto il tuo dovere.»
+_"Mi spiace padre. Prometto che dalla prossima volta mi impegnerò ancora di più."_
 
-«Sì, padre, ho fatto del mio meglio, come sempre.»
+Keloth indicò il corposo zaino che <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> aveva in spalla. _"Dove stai andando?"_
 
-«Per qualche motivo, ne dubito. Sai ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image009.gif), ho l’impressione che recentemente tu stia battendo la fiacca.»
-
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) era stufo, non voleva scambiare un’altra parola con lui, ma doveva mantenere la facciata.
-
-«Mi spiace padre. Prometto che dalla prossima volta mi impegnerò ancora di più.»
-
-Keloth indicò il corposo zaino che ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) aveva in spalla. «Dove stai andando?»
-
-«Da mia madre. Ultimamente non sta benissimo, e vorrei darle tutte le cure necessarie.»
+_"Da mia madre. Ultimamente non sta benissimo, e vorrei darle tutte le cure necessarie."_
 
 Keloth fece una smorfia, malcelando il suo disgusto.
 
-«A tal proposito ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif), credo di doverti informare di una cosa riguardo tua madre.»
+_"A tal proposito <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, credo di doverti informare di una cosa riguardo tua madre."_
 
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) corse più veloce di quanto aveva mai fatto prima. La distanza non era tale da affaticarlo, ma si sentiva il fiato mozzato e il sangue pompargli alla testa.
+---
 
-Raggiunse il capanno e allungò la mano sulla maniglia della porta. Esitò, stringendo con forza il pugno.
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> corse più veloce di quanto aveva mai fatto prima. La distanza non era tale da affaticarlo, ma si sentiva il fiato mozzato e il sangue pompargli alla testa. Raggiunse il capanno e allungò la mano sulla maniglia della porta. Esitò, stringendo con forza il pugno. Non poteva essere vero. Era certamente una menzogna. Si fece coraggio e spalancò la porta, aspettandosi che sua madre, come sempre, corresse ad abbracciarlo. Il capanno era vuoto e buio. Le piantine che decoravano la stanza sembravano essersi avvizzite. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si avvicinò al giaciglio, che aveva ancora la forma del suo corpo. Poggiò una mano su di esso e avvertì un freddo inusuale. Non c’era più nulla di lei, neanche il calore.
 
-Non poteva essere vero. Era certamente una menzogna. Si fece coraggio e spalancò la porta, aspettandosi che sua madre, come sempre, corresse ad abbracciarlo.
+Quando <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> tornò indietro, Keloth era seduto sulla sua poltrona, sorseggiando un calice di vino come se nulla fosse.
 
-Il capanno era vuoto e buio. Le piantine che decoravano la stanza sembravano essersi avvizzite. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) si avvicinò al giaciglio, che aveva ancora la forma del suo corpo. Poggiò una mano su di esso e avvertì un freddo inusuale. Non c’era più nulla di lei, neanche il calore.
+_"Che cosa è successo?"_ gli chiese <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, quasi ringhiando.
 
-Quando ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) tornò indietro, Keloth era seduto sulla sua poltrona, sorseggiando un calice di vino come se nulla fosse.
+_"Te l’ho già detto. Tua madre è morta per un malore."_
 
-«Che cosa è successo?» gli chiese ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif), quasi ringhiando.
+_"Come l’avete scoperto?"_
 
-«Te l’ho già detto. Tua madre è morta per un malore.»
+_"Lei è uscita fuori dal capanno, cercando aiuto. Ma non ha fatto molta strada prima di cadere a terra, ed è morta poco dopo."_
 
-«Come l’avete scoperto?»
+_"Nessuno l’ha aiutata?"_
 
-«Lei è uscita fuori dal capanno, cercando aiuto. Ma non ha fatto molta strada prima di cadere a terra, ed è morta poco dopo.»
+_"Anche se qualcuno ci avesse provato, non credo che lei si sarebbe salvata."_
 
-«Nessuno l’ha aiutata?»
-
-«Anche se qualcuno ci avesse provato, non credo che lei si sarebbe salvata.»
-
-![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) gli puntò contro il suo stocco. «Dì la verità. Sei stato tu ad ucciderla?»
+<img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> gli puntò contro il suo stocco.  _"Dì la verità. Sei stato tu ad ucciderla?"_
 
 Keloth sorrise di fronte a quell’atto di ribellione, il primo dopo 30 anni.
 
-«RISPONDI!»
+_"RISPONDI!"_
 
-«Non sono stato io» rispose Keloth serenamente. «E perché avrei dovuto? Con tutta la fatica che ho impiegato per tenerla viva… solo per soddisfare le volontà di mio figlio.»
+_"Non sono stato io"_ rispose Keloth serenamente. _"E perché avrei dovuto? Con tutta la fatica che ho impiegato per tenerla viva… solo per soddisfare le volontà di mio figlio."_
 
-«E’ solo un modo articolato per dire che la tenevi in ostaggio… Dov’è ora il suo corpo?»
+_"E’ solo un modo articolato per dire che la tenevi in ostaggio… Dov’è ora il suo corpo?"_
 
-«Oh l’abbiamo dato in pasto alle bestie distorcenti. Era da un po’ che non davamo loro un po’ di carne umana.»
+_"Oh l’abbiamo dato in pasto alle bestie distorcenti. Era da un po’ che non davamo loro un po’ di carne umana."_
 
-La naturalezza con cui Keloth disse quelle parole fece scattare qualcosa in ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif).
+La naturalezza con cui Keloth disse quelle parole fece scattare qualcosa in <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />.
 
-Una rabbia incontrollata, una rabbia repressa per trenta lunghi anni. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) si avventò su di lui.
+Una rabbia incontrollata, una rabbia repressa per trenta lunghi anni. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si avventò su di lui.
 
-Ma Keloth non era impreparato. Lasciò il suo calice di vino e lanciò uno scudo magico prima di essere colpito. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) venne sbilanciato e fu poi colpito da una lama di energia verde, che gli fece perdere la presa sullo stocco.
+Ma Keloth non era impreparato. Lasciò il suo calice di vino e lanciò uno scudo magico prima di essere colpito. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> venne sbilanciato e fu poi colpito da una lama di energia verde, che gli fece perdere la presa sullo stocco.
 
-«Non sei ancora abbastanza forte» dichiarò Keloth, mentre ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) cadeva in ginocchio.
+_"Non sei ancora abbastanza forte"_ dichiarò Keloth, mentre <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> cadeva in ginocchio.
 
-No, non era così. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) sapeva di essere forte. Ma non doveva lasciarsi accecare dalle emozioni.
+No, non era così. <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> sapeva di essere forte. Ma non doveva lasciarsi accecare dalle emozioni.
 
-Squadrò intensamente il volto di Keloth e ricordò i suoi stessi insegnamenti. Doveva eliminare ogni ostacolo, ogni emozione. Semplicemente lui era una preda e ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image009.gif) era il cacciatore.
+Squadrò intensamente il volto di Keloth e ricordò i suoi stessi insegnamenti. Doveva eliminare ogni ostacolo, ogni emozione. Semplicemente lui era una preda e <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> era il cacciatore.
 
-La sua visione si concentrò a tunnel su Keloth. ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image011.gif) raccolse lo stocco e lanciò una serie di affondi, precisi e veloci, senza lasciar alcun tempo per reagire al suo avversario.
+La sua visione si concentrò a tunnel su Keloth. Raccolse lo stocco e lanciò una serie di affondi, precisi e veloci, senza lasciar alcun tempo per reagire al suo avversario. Keloth venne infine sopraffatto e si ritrovò a terra, con lo stocco che gli pungeva il collo.
 
-Keloth venne infine sopraffatto e si ritrovò a terra, con lo stocco che gli pungeva il collo.
+_"E’ finita"_ disse <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" />, pronto a sferrare il colpo di grazia. Ma guardando il volto sorridente di suo padre, si fermò. Prendere la sua vita non avrebbe protetto nessuno, perché ormai non aveva più nulla da proteggere. Uccidendolo avrebbe semplicemente dimostrato di essere come un qualunque altro Drow.
 
-«E’ finita» disse ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif), pronto a sferrare il colpo di grazia. Ma guardando il volto sorridente di suo padre, si fermò. Prendere la sua vita non avrebbe protetto nessuno, perché ormai non aveva più nulla da proteggere. Uccidendolo avrebbe semplicemente dimostrato di essere come un qualunque altro Drow.
+_"Non sarò mai quello che tu vuoi"_ esclamò <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> rinfoderando lo stocco. Dopodiché lasciò quella casa e non vi fece più ritorno. La fuga proseguì senza alcun problema. Senza sua madre, era risultata molto più semplice del previsto. Quando lasciò la foresta dietro di sé, <img src="./Assets/clip_image001.png" style="max-width: 10%; position: relative; top: 1rem; margin-left: 4px; margin-top: 0px;" /> si rese conto di essere finalmente libero da quella gabbia.
 
-«Non sarò mai quello che tu vuoi» esclamò ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) rinfoderando lo stocco.
-
-Dopodiché lasciò quella casa e non vi fece più ritorno.
-
-La fuga proseguì senza alcun problema. Senza sua madre, era risultata molto più semplice del previsto.
-
-Quando lasciò la foresta dietro di sé, ![](file:///C:/Users/GFC3E~1.PEP/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) si rese conto di essere finalmente libero da quella gabbia.
-
-Avrebbe dovuto essere felice ma non lo era. Aveva infranto la sua promessa. Non era riuscito a proteggere l’unica persona che aveva giurato di proteggere. Non poteva più essere il Reon delle storie, non aveva il diritto di farsi chiamare così.
+Avrebbe dovuto essere felice ma non lo era. **Aveva infranto la sua promessa.** Non era riuscito a proteggere l’unica persona che aveva giurato di proteggere. Non poteva più essere il Reon delle storie, non aveva il diritto di farsi chiamare così.
 
 Abbandonandosi tutto alle spalle, senza un nome e senza un obiettivo, il mezzo Drow si avventurò nel mondo esterno.
 
   <p style="text-align: center">
 <img src="./Assets/d20Logo.png" style="max-width: 5%" />
 </p>
-
 ###### Parte 4: Notte
 
 Il villaggio natale di Mira era un piccolo villaggio circondato dai boschi, a qualche giorno di distanza da Grà-Lin.
