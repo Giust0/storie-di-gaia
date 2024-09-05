@@ -1,2 +1,1 @@
 - [[Le Due Querce]]
-- Behind the Lions Claw
