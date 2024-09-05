@@ -18,7 +18,7 @@ La sezione raccoglie la lista delle **campagne** e delle **avventure** giocate e
 Qui troverete le **linee temporali** dell'ambientazione, che vi aiuteranno a collocare eventi storici e significativi nell'universo di gioco. È una risorsa essenziale per comprendere il passato, presente e futuro di Gaia, oltre a come tutto si interseca.
 ### [[Lista dei Luoghi |Luoghi]]
 Qui sono descritti i vari **luoghi dell'ambientazione**: città, regni, terre e altro ancora. Ogni località è dettagliata con mappe, descrizioni e curiosità, permettendovi di conoscere meglio le regioni e i posti che i vostri personaggi esploreranno.
-### [[Lista dei Personaggi |Personaggi]]
+### [[Lista dei Personaggi|Personaggi]]
 Questa sezione è dedicata ai protagonisti dell'ambientazione, sia **giocanti** che **non giocanti**. Troverete biografie, storie personali, e le relazioni tra i personaggi. Perfetto per chi vuole approfondire la vita e i segreti di coloro che popolano questo mondo.
 ### Popoli
 Qui vengono esplorate le diverse **culture** e **civiltà** che abitano l'universo di gioco. Scoprirete le tradizioni, credenze e stili di vita di ognuna, offrendo un'immersione completa nelle società che i personaggi incontreranno durante le loro avventure.
