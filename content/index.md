@@ -12,7 +12,7 @@ Qui troverete tutto ciò che serve per esplorare il nostro mondo unico: dalle te
 ---
 
 La Wiki è divisa in diverse sezioni, utili per esplorare i contenuti che più vi interessano. Qui di seguito trovate una descrizione dei loro contenuti.
-### [[Lista Campagne e Avventure|Campagne e Avventure]]
+### [[Lista delle Campagne|Campagne e Avventure]]
 La sezione raccoglie la lista delle **campagne** e delle **avventure** giocate e in corso.
 ### Timelines
 Qui troverete le **linee temporali** dell'ambientazione, che vi aiuteranno a collocare eventi storici e significativi nell'universo di gioco. È una risorsa essenziale per comprendere il passato, presente e futuro di Gaia, oltre a come tutto si interseca.
