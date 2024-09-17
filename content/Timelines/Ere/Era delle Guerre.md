@@ -30,6 +30,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    transition: transform 0.3s ease;
+  }
+
+  .event-group .content:hover { 
+	transform: scale(1.05);
   }
   .event-group .content h1 {
     font-size: 18px;
@@ -74,60 +79,84 @@
     <div style="width: 80%; height: auto; max-width: 800px; margin: 0 auto;" class="timeline">
       <div class="event-group">
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>730 p.A.</b></p>
           <div class="image-container">
             <img src="../Assets/Banner Home Light.jpg" style="margin: 0px;" alt="Event 3 Image">
           </div>
-          <h1>Morte di Dorton Mareril</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p style="font-size: 15px;"><b>Morte di Dorton Mareril</b></p>
+          <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>565 p.A.</b></p>
           <div class="image-container">
             <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 2 Image">
           </div>
-          <h1>Guerra delle Due Querce</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p><b>Inizio Guerra delle Due Querce</b></p>
+          <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>535 p.A.</b></p>
           <div class="image-container">
             <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 2 Image">
           </div>
-          <h1>Secondo Evento 565 p.A.</h1>
-          <p>Descrizione breve del secondo evento.</p>
+          <p><b>Fine Guerra delle Due Querce</b></p>
+          <p style="margin-top: 0px;">Descrizione breve del secondo evento.</p>
         </div>
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>135 p.A.</b></p>
           <div class="image-container">
             <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 2 Image">
           </div>
-          <h1>Terzo Evento 565 p.A.</h1>
-          <p>Descrizione breve del terzo evento.</p>
+          <p><b>Dawn of the Child</b></p>
+          <p style="margin-top: 0px;">Descrizione breve del terzo evento.</p>
         </div>
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>100 p.A.</b></p>
           <div class="image-container">
             <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
           </div>
-          <h1>Le Due Querce</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p><b>Le Due Querce</b></p>
+          <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>100 p.A.</b></p>
           <div class="image-container">
             <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
           </div>
-          <h1>Soli in Terra</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p><b>Evento Sincronico - Soli in Terra</b></p>
+          <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="content">
-          <p style="margin-top: 0px; margin-bottom: 0px;">730 p.A.</p>
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>100 p.A.</b></p>
           <div class="image-container">
             <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
           </div>
-          <h1>Behind the Lion's Claw</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p><b>Behind the Lion's Claw</b></p>
+          <p style="margin-top: 0px;">???</p>
+        </div>
+        <div class="content">
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>Anno 0</b></p>
+          <div class="image-container">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
+          </div>
+          <p><b>La saga di Eshmund</b></p>
+          <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="content">
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>50 d.A.</b></p>
+          <div class="image-container">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
+          </div>
+          <p><b>Cinquant'anni dopo</b></p>
+          <p style="margin-top: 0px;">???</p>
+        </div>
+        <div class="content">
+          <p style="margin-top: 0px; margin-bottom: 0px;"><b>238 d.A.</b></p>
+          <div class="image-container">
+            <img src="https://via.placeholder.com/60" style="margin: 0px;" alt="Event 4 Image">
+          </div>
+          <p><b>The Ultragnomic Jump</b></p>
+          <p style="margin-top: 0px;">???</p>
         </div>
       </div>
     </div>
