@@ -30,7 +30,7 @@
 - [[Beth'Endar]], detta Beth: famiglio, sorella, animale guida. 
 ## Curiosità
 
-- L'ascia gigante che brandisce in battaglia si chiama Diplomazia, e proviene direttamente dalle sale del Palazzo Reale del [[Villaggio delle Aquile]]. Era infatti una volta di proprietà di suo padre [[Eroret delle Aquile|Eroret]].
+- L'ascia gigante che brandisce in battaglia si chiama Diplomazia, e proviene direttamente dal [[Villaggio delle Aquile]]. Era infatti una volta di proprietà di suo padre [[Eroret delle Aquile|Eroret]].
 ## Apparizioni
 
 - [[Le Due Querce]]
