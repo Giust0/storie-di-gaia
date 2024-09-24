@@ -24,7 +24,7 @@
 **Eryn delle Aquile** è la principessa ed erede alla guida del [[Clan delle Aquile | clan barbarico delle Aquile]], attualmente in viaggio tra le terre dell' Ovest di [[Nerya]] e i regni orientali di [[Ocea]]. È il personaggio interpretato da Alessia nella campagna [[Le Due Querce]].
 ## Backstory
 
-È un'avventuriera sotto copertura, fuggita dalla propria famiglia sotto consiglio dei suoi genitori ([[Eroret delle Aquile | Eroret]]  e [[Vanya delle Aquile | Vanya]] delle Aquile) per sfuggire ad un matrimonio politico con il capo del [[Clan del Cinghiale|clan barbarico del Cinghiale]], che ha invaso da poco il [[Villaggio delle Aquile]].
+È un'avventuriera sotto copertura, fuggita dalla propria famiglia sotto consiglio dei suoi genitori ([[Eroret delle Aquile | Eroret]]  e [[Vanya delle Aquile | Vanya]] delle Aquile) per sfuggire ad un matrimonio politico con il capo del [[Clan del Cinghiale|clan barbarico del Cinghiale]], invasore del [[Villaggio delle Aquile]]. Durante la sorta di esilio che è costretta a vivere approda nella ricca città di [[Jid'Ian]], nel sud del [[Serdes]], dove incontra il resto del party della campagna [[Le Due Querce]]. Insieme a loro resta invischiata negli strani eventi del [[Mondo delle Memorie]] e decide di mettere tutta se stessa nella lotta contro [[Il Quarto]], decisa a rendere Gaia un posto sicuro per la propria gente e le persone che ama.
 ## Legami e Relazioni
 ## Curiosità
 ## Apparizioni
