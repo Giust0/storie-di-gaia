@@ -1,86 +1,38 @@
 
+> [!quote|mark]
+> *Il rassicurante abraccio della giustizia è come il caldo grembo di una madre.*
+
+<br>
+
 > [!infobox]
-> # Dyma
-> ![[Dyma.jpeg|cover hbig]]
+> # Dyma 
+> ![[Dyma.jpeg]]
 > ###### Info
 > |  |  |
 > | ---- | ---- |
+> | **Origini** | [[Ristalia]] |
 > | **Razza** | [[Fieromorfo]] |
-> 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-
-Questo è un esempio di *PG*.
-
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
-
-> [!quote|mark] **Eryn delle Aquile **
-> *Le vere ali sono quelle che hai nel sangue.*
-
-
-
-
-
-> [!statblocks|columns]
-> 
->> [!blank]  
->> ![Char Image|right cover htiny wtiny circle lp]()
->> # Dyma
->> > Description
->> 
->> *Basics*
->> 
->> ---
-| HP | AC | Initiative |
-|:---:|:---:|:---:|
-|22 |14 |12|
->>
-| STR | DEX | CON | INT | WIS | CHA |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  | **Mod** |
-|  |  |  |  |  |  | **Sav** |
->>
-|  |  |
-| ---:|:--- |
-| **Speed** |  |
-| **Passive Perception (WIS)** |  |
-| **Proficiency Bonus** |  |
-| **Darkvision** |  |
->> 
->> ---
->> 
->>> [!checks|no-t] 
->>> - 
->>>	- **Spell Slots**
->>>	- [ ] 
->>>	- [ ] 
->>> - **Death Saves**
->>>	- ❌
->>>	- [ ] 
->>>	- [ ] 
->>>	- [ ] 
->>>	- ✔
->>>	- [ ] 
->>>	- [ ] 
->>>	- [ ] 
->> 
+> | **Classe** | Ranger |
+> | **Allineamento** | Legale Neutrale |
+> | **Data di nascita** | 111 p.A. |
+> | **Segni particolari** | Iridi color miele, particolarmente simili a quelle di una donna umana |
 > 
 > 
->> [!blank]
->> ## Traits
-| | |
-| --- | --- |
->> 
->> ## Feats
->> 
->> **Test**
->> Description
->> 
->> **Test**
->> Test
+> 
+> 
+> 
+
+**Dyma**...
+## Backstory
+
+...
+## Legami e Relazioni
+## Curiosità
+## Apparizioni
+
+- [[Dawn of the Child]]
+- [[Le Due Querce]]
+
+<p style="text-align: center">
+<img src="./Assets/Logo Storie di Gaia.png" style="max-width: 25%" />
+</p>

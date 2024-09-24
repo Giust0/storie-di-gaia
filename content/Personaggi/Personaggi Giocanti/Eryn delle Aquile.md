@@ -26,7 +26,11 @@
 
 È un'avventuriera sotto copertura, fuggita dalla propria famiglia sotto consiglio dei suoi genitori ([[Eroret delle Aquile | Eroret]]  e [[Vanya delle Aquile | Vanya]] delle Aquile) per sfuggire ad un matrimonio politico con il capo del [[Clan del Cinghiale|clan barbarico del Cinghiale]], invasore del [[Villaggio delle Aquile]]. Durante la sorta di esilio che è costretta a vivere approda nella ricca città di [[Jid'Ian]], nel sud del [[Serdes]], dove incontra il resto del party della campagna [[Le Due Querce]]. Insieme a loro resta invischiata negli strani eventi del [[Mondo delle Memorie]] e decide di mettere tutta se stessa nella lotta contro [[Il Quarto]], decisa a rendere Gaia un posto sicuro per la propria gente e le persone che ama.
 ## Legami e Relazioni
+
+- [[Beth'Endar]], detta Beth: famiglio, sorella, animale guida. 
 ## Curiosità
+
+- L'ascia gigante che brandisce in battaglia si chiama Diplomazia, e proviene direttamente dalle sale del Palazzo Reale del [[Villaggio delle Aquile]]. Era infatti una volta di proprietà di suo padre [[Eroret delle Aquile|Eroret]].
 ## Apparizioni
 
 - [[Le Due Querce]]

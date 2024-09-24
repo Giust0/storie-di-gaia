@@ -4,6 +4,7 @@
 
 ### Personaggi Non Giocanti
 
+- [[Beth'Endar]]
 - [[Dyma]]
 - [[Eroret delle Aquile]]
 - [[Vanya delle Aquile]]
