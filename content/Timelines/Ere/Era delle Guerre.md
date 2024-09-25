@@ -83,7 +83,7 @@
           <div class="image-container">
             <img src="../Assets/Banner Home Light.jpg" style="margin: 0px;" alt="Event 3 Image">
           </div>
-          <p style="font-size: 15px;"></html><b>[[Le Due Querce|Morte di Dorton Mareril]]</b><html></p>
+          <p style="font-size: 15px;"><b>Morte di Dorton Mareril</b></p>
           <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="content">
