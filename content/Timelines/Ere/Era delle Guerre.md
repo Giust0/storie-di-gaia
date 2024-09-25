@@ -78,7 +78,7 @@
   <div style="min-height: 100vh; width: 100%; display: flex; align-items: center; justify-content: center;">
     <div style="width: 80%; height: auto; max-width: 800px; margin: 0 auto;" class="timeline">
       <div class="event-group">
-      <a href="../Campagne-e-Avventure/Campagne/Le-Due-Querce.md" style="display: contents;">
+      <a href="../../Campagne e Avventure/Campagne/Le Due Querce.md" style="display: contents;">
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;"><b>730 p.A.</b></p>
           <div class="image-container">
