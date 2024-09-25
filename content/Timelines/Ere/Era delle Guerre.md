@@ -11,6 +11,9 @@
   }
 }
 @media only screen and (min-width: 768px) {
+.popover {
+	left: 10rem;
+}
   .timeline {
     position: relative;
     padding-left: 20px;
@@ -34,7 +37,7 @@
   }
 
   .event-group .content:hover { 
-	transform: scale(1.35);
+	transform: scale(1.15);
   }
   .event-group .content h1 {
     font-size: 18px;
