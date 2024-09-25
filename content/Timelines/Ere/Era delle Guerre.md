@@ -86,7 +86,6 @@
           <p style="font-size: 15px;"><b>Morte di Dorton Mareril</b></p>
           <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
-        [[Le Due Querce]]
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;"><b>565 p.A.</b></p>
           <div class="image-container">
