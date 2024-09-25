@@ -78,6 +78,7 @@
   <div style="min-height: 100vh; width: 100%; display: flex; align-items: center; justify-content: center;">
     <div style="width: 80%; height: auto; max-width: 800px; margin: 0 auto;" class="timeline">
       <div class="event-group">
+      <a href="../Campagne/Le Due Querce.md">
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;"><b>730 p.A.</b></p>
           <div class="image-container">
@@ -86,6 +87,7 @@
           <p style="font-size: 15px;"><b>Morte di Dorton Mareril</b></p>
           <p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
+        </a>
         <div class="content">
           <p style="margin-top: 0px; margin-bottom: 0px;"><b>565 p.A.</b></p>
           <div class="image-container">
