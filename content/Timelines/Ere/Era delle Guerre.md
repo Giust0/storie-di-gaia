@@ -34,7 +34,7 @@
   }
 
   .event-group .content:hover { 
-	transform: scale(1.05);
+	transform: scale(1.35);
   }
   .event-group .content h1 {
     font-size: 18px;
